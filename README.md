@@ -1,8 +1,6 @@
 # Hotel GodFather 🏨
 
-A pixel-perfect, desktop-first landing page developed as a professional assignment for **BACANCY**. This project replicates a specific high-fidelity design mockup using pure HTML5 and CSS3.
-
-![Status](https://img.shields.io/badge/Status-Completed-success) ![Layout](https://img.shields.io/badge/Layout-Fixed_Width-orange)
+A pixel-perfect, desktop-first landing page developed as an assignment for **BACANCY**. This project replicates a specific high-fidelity design mockup using pure HTML5 and CSS3.
 
 ## ⚡ Key Highlights
 * **Fixed-Width Layout:** Engineered with a precise `1291px` container for exact desktop alignment.
